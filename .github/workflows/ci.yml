@@ -15,7 +15,7 @@ jobs:
     - name: Set up Node.js
       uses: actions/setup-node@v3  # Mettez à jour vers v3
       with:
-        node-version: '22.5'  # Mettez à jour vers la dernière version stable (ou '16' si nécessaire)
+        node-version: '20'  # Mettez à jour vers la dernière version stable (ou '16' si nécessaire)
 
     - name: Install dependencies
       run: npm install
