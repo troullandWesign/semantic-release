@@ -21,7 +21,7 @@ app.get('/multiplication', (req, res) => {
     const { a, b } = req.query;
     const multiplication = parseFloat(a) * parseFloat(b);
     console.log('multiplication', multiplication);
-    res.json({ result: multiplication });
+    res.json({ resultat: multiplication });
 });
 
 app.listen(port, () => {
