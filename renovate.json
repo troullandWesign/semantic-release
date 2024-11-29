@@ -1,5 +1,11 @@
 {
-    "extends": ["config:base"],
-    "schedule": ["every weekend"],
-    "baseBranches": ["master"]
-}
+    "extends": [
+      "config:base"
+    ],
+    "schedule": [
+      "before 6am on the first day of the month"
+    ],
+    "automerge": true,
+    "automergeType": "branch"
+  }
+  

@@ -11,7 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.21.1"
+    "express": "^4.21.1",
+    "yarn": "^1.22.22"
   },
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.3",
