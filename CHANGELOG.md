@@ -1,3 +1,11 @@
+## [2.1.2](https://github.com/troullandWesign/semantic-release/compare/v2.1.1...v2.1.2) (2024-11-29)
+
+
+### Bug Fixes
+
+* testip ([a6746e4](https://github.com/troullandWesign/semantic-release/commit/a6746e40af55a04fc6c01717fdd23dcb68c3e358))
+* testyp ([dea53da](https://github.com/troullandWesign/semantic-release/commit/dea53dab65a2c216f4758429e3779a0e7ab14c27))
+
 ## [2.1.1](https://github.com/troullandWesign/semantic-release/compare/v2.1.0...v2.1.1) (2024-11-29)
 
 
