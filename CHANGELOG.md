@@ -1,3 +1,17 @@
+# [2.0.0](https://github.com/troullandWesign/semantic-release/compare/v1.0.0...v2.0.0) (2024-11-29)
+
+
+### Features
+
+* ajout division ([f092971](https://github.com/troullandWesign/semantic-release/commit/f092971cb66d610fc88a9c719da90f045d29e8d9))
+* division ([b761b84](https://github.com/troullandWesign/semantic-release/commit/b761b8423f9c7c3ee9e8daefe90819522d3e6e32))
+
+
+### BREAKING CHANGES
+
+* prout
+* prout
+
 # 1.0.0 (2024-11-29)
 
 
