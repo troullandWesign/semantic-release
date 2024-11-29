@@ -8,6 +8,13 @@ app.get('/addition', (req, res) => {
     res.json({ result: sum });
 });
 
+//ajout de la division
+app.get('/division', (req, res) => {
+    const { a, b } = req.query;
+    const division = parseFloat(a) / parseFloat(b);
+    res.json({ result: division });
+});
+
 app.listen(port, () => {
-    console.log(`Serravsser is running at http://localhost:${port}`);
+    console.log(`Serravssser is running at http://localhost:${port}`);
 });
