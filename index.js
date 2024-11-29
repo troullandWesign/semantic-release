@@ -9,5 +9,5 @@ app.get('/addition', (req, res) => {
 });
 
 app.listen(port, () => {
-    console.log(`Serraver is running at http://localhost:${port}`);
+    console.log(`Serravsser is running at http://localhost:${port}`);
 });
