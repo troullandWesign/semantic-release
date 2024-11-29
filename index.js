@@ -12,6 +12,7 @@ app.get('/addition', (req, res) => {
 app.get('/division', (req, res) => {
     const { a, b } = req.query;
     const division = parseFloat(a) / parseFloat(b);
+    console.log('division', division);
     res.json({ result: division });
 });
 
