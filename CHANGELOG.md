@@ -1,3 +1,11 @@
+## [2.1.1](https://github.com/troullandWesign/semantic-release/compare/v2.1.0...v2.1.1) (2024-11-29)
+
+
+### Bug Fixes
+
+* mes couillas ([4958aaf](https://github.com/troullandWesign/semantic-release/commit/4958aaf543562c8922358f6d484bb3ee57c9d6dc))
+* mes couillase ([422880f](https://github.com/troullandWesign/semantic-release/commit/422880f607b369dbfc76f1ecdd2df59e1188164e))
+
 # [2.1.0](https://github.com/troullandWesign/semantic-release/compare/v2.0.0...v2.1.0) (2024-11-29)
 
 
