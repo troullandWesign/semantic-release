@@ -1,3 +1,11 @@
+# [2.1.0](https://github.com/troullandWesign/semantic-release/compare/v2.0.0...v2.1.0) (2024-11-29)
+
+
+### Features
+
+* mes couilles ([db74810](https://github.com/troullandWesign/semantic-release/commit/db74810253571a34c574b2e76f153938fcba90f5))
+* multiplication ([5dacf6c](https://github.com/troullandWesign/semantic-release/commit/5dacf6cdda4b4991956f2ca80f52f26296c30e74))
+
 # [2.0.0](https://github.com/troullandWesign/semantic-release/compare/v1.0.0...v2.0.0) (2024-11-29)
 
 
